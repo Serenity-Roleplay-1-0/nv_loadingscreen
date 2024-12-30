@@ -74,9 +74,10 @@ var videoOpacity = 0.3
 
 // Example link: https://www.youtube.com/watch?v=abcdefgh
 
-const youtubeVideo = "https://www.youtube.com/watch?v=SztA0gUsvOw" // Running Wild
+// const youtubeVideo = "https://www.youtube.com/watch?v=SztA0gUsvOw" // Running Wild
 // const youtubeVideo = "https://www.youtube.com/watch?v=Q_5z4n5TZ2Q" // Sleepwalking
 // const youtubeVideo = "https://www.youtube.com/watch?v=KrM107U_uRg" // Street Lights
+const youtubeVideo = "https://www.youtube.com/watch?v=UZ7y3yuqgRg" // Running Wild Remix
 const showYoutubeVideo = false
 
 // Local Video
